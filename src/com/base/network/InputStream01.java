@@ -1,11 +1,7 @@
-package com.network;
+package com.base.network;
 
-import sun.net.TelnetInputStream;
-
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintStream;
-import java.nio.charset.StandardCharsets;
 
 public class InputStream01 {
 
